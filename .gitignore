@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.*.local
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# Optional: Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Optional: Uploaded files
+uploads/
+public/uploads/
+tmp/
+
+# Optional: PM2 logs
+pids/
+*.log
+
+# Optional: VS Code settings
+.vscode/
+
+# Optional: Ignore production secrets
+secrets/
